@@ -36,7 +36,6 @@ Trenutno razvijam svoj portfolio, gradim eCommerce aplikaciju i pripremam se za 
 
 ## 📫 Connect With Me
 - 💼 LinkedIn - https://www.linkedin.com/in/marinela-rajkovi%C4%87-623323232/
-- ✉️ email: *upiši email ako želiš dodati*  
+- ✉️ email: marinela.rajkovic29@gmail.com 
 
-Hvala što si svratio/la! 🌿  
-Ako želiš vidjeti moj napredak, slobodno popratite ili pregledajte repo projekte.  
+
