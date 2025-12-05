@@ -22,6 +22,7 @@ Trenutno razvijam svoj portfolio, gradim eCommerce aplikaciju i pripremam se za 
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
 </p>
 
 
@@ -34,7 +35,7 @@ Trenutno razvijam svoj portfolio, gradim eCommerce aplikaciju i pripremam se za 
 
 
 
-## 📫 Connect With Me
+## 📫 Kontakt
 - 💼 LinkedIn - https://www.linkedin.com/in/marinela-rajkovi%C4%87-623323232/
 - ✉️ email: marinela.rajkovic29@gmail.com 
 
