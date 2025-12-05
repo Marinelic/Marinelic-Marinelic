@@ -19,6 +19,23 @@ Trenutno razvijam svoj portfolio, gradim eCommerce aplikaciju i pripremam se za 
 - 🎨 Poboljšavanje UI-a, responzivnog dizajna i organizacije projekta  
 
 
+## 📂 Projects I'm Proud Of
+
+### 🔹 [Grocery App](https://github.com/Marinelic/Grocery-app)
+JavaScript aplikacija za upravljanje shopping listom (add/remove, localStorage).
+
+### 🔹 [Weather App](https://github.com/Marinelic/weather-app)
+Aplikacija koja koristi javni API za dohvat vremenske prognoze.
+
+### 🔹 [Twitter Clone](https://github.com/Marinelic/twitter-clone)
+Interaktivni mini projekt s JavaScript logikom.
+
+### 🔹 [Vegan Restaurant Site](https://github.com/Marinelic/Verduras_Vegan_Restaurant)
+Responsivan restoran web site fokusiran na UI/UX.
+
+
+
+
 
 ## 📊 GitHub Stats
 
