@@ -37,6 +37,6 @@ Trenutno razvijam svoj portfolio, gradim eCommerce aplikaciju i pripremam se za 
 
 ## 📫 Kontakt
 - 💼 LinkedIn - https://www.linkedin.com/in/marinela-rajkovi%C4%87-623323232/
-- ✉️ email: marinela.rajkovic29@gmail.com 
+- ✉️ email - marinela.rajkovic29@gmail.com 
 
 
